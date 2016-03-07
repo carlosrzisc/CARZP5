@@ -3,10 +3,10 @@ This project is part of Udacity Nanodegree. XYZ Reader is a mock RSS feed reader
 This UI app conforms to Material Design guidelines.
 
 ## Learning keys on this project:
-	•	Understand the fundamentals of Android design.
-	•	Apply Material Design guidelines to an mobile application.
-	•	Separate an interface into surfaces.
-	•	Effectively use transitions and motion.
+* Understand the fundamentals of Android design.
+* Apply Material Design guidelines to an mobile application.
+* Separate an interface into surfaces.
+* Effectively use transitions and motion.
 
 
 ## Install
